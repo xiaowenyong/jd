@@ -1,0 +1,27 @@
+
+.banner_b{  width: 1900px;; height: 410px; background: url(../images/banner.jpg);background-repeat: no-repeat; margin: auto;background-size:1900px 603px; position: relative; background-position: 5px 10px;}
+.banner{width: 1204px; height: 410px; margin: 0px auto; }
+.banner_l{width: 210px; height: 400px; float: left;}
+.banner_l ul{ list-style: none;}
+.banner_l ul li{ width: 210px; height: 31px; background-color: #CB1524;}
+.banner_l ul li a{ color:white;text-decoration: none; padding-left: 10px;}
+.banner_l ul li span{ padding-right: 10px; float: right;}
+.banner_m{width: 725px; height: 400px; float: left; margin-left: 10px; margin-top: 10px;}
+.banner_r{width: 245px; height: 400px; float:right; margin-top: 10px; border: 1px solid #E4E4E4;  }
+.banner_r_t{width: 240px; height: 45px; color: darkslategrey; line-height:45px;}
+.banner_r_m{width: 240px; height: 125px;}
+.banner_r_m ul{ list-style: none;}
+.banner_r_m ul li{ font-size: 14px; padding-left: 10px; height: 25px; width: 240px;}
+.banner_r_m ul li a{ color: darkslategrey; text-decoration: none;}
+.banner_r_b{width: 245px; height: 180px; margin-top: 42px;}
+.banner_r_b ul{ list-style: none;}
+.banner_r_b ul li{ width: 59px; height: 60px; float: left; border: 0.5px solid #E4E4E4; text-align: center; color: #666666;}
+.banner_r_b ul li a{ display: block; width: 24px; height:27px; margin: auto; margin-top: 10px; overflow: hidden;  }
+
+.main{width: 1204px; height: 160px; margin: 10px auto; }
+.main_a{width: 210px; height: 155px; float: left; }
+.main_b{width: 246px; height: 155px; float: left; margin-right: 2.5px }
+
+.login{width: 100%; height: 95px; margin: 0px auto; background-color: #F5F5F5;}
+.login_m{width: 1204px; height: 95px; margin: 0px auto;}
+.login_m_a{width: 220px; height: 54px; float: left; margin-top: 15px; margin-right: 80px;}
